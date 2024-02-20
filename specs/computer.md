@@ -1,4 +1,4 @@
-# Computer specifications
+# Computer hardware specifications
 ## CPU: [Intel Core i5-7500](https://ark.intel.com/content/www/us/en/ark/products/97123/intel-core-i5-7500-processor-6m-cache-up-to-3-80-ghz.html)
 ### Frequency: 3.4GHz
 ### Cores: 4
@@ -19,3 +19,10 @@
 ### Max DPI: 10,000DPS
 ### Max Refresh rate: 1kHz
 ### Connection: USB-A
+# Computer software
+## OS:
+### Windows 10 Home - used only for gaming
+### Endeavour OS
+## Roblox bootstrapper (Endeavour OS)
+#### [Vinegar](https://flathub.org/apps/org.vinegarhq.Vinegar)
+#### Might start using [Grapejuice](https://flathub.org/apps/net.brinkervii.grapejuice) if I get studio to work there.
