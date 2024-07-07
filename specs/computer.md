@@ -23,6 +23,6 @@
 ## OS:
 ### Windows 10 Home - used only for gaming
 ### Endeavour OS
-## Roblox bootstrapper (Endeavour OS)
+## Roblox bootstrapper (Endeavour OS) (Not anymore cuz roblox killed linux gayming)
 #### [Vinegar](https://flathub.org/apps/org.vinegarhq.Vinegar)
 #### Might start using [Grapejuice](https://flathub.org/apps/net.brinkervii.grapejuice) if I get studio to work there.
