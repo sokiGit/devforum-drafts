@@ -8,7 +8,7 @@
 ### Compute Units: 32
 ### Transistor count: 5.7B
 ## RAM: 2× 8GB 2.1GHz
-## Display: [LG 28MT49VW LED display 71.1 cm (28")](https://icecat.biz/p/lg/28mt49vw-wz.api/computer+monitors-8806084833495-28mt49vw-36312512.html)
+## Display: [LG 28MT49VW-WZ TV 28" HD White 250 cd/m²](https://icecat.biz/us/p/lg/28mt49vw-wz/tvs-8806084437853-28mt49vw-wz-36519818.html)
 ### Resolution: 1366x768
 ### Refresh rate: 60Hz
 ## Keyboard: [Samsung SWT1000](https://www.czc.cz/samsung-swt1000-ps-2-cz-cerno-stribrna/37513/produkt) (pro gaming keyboard)
