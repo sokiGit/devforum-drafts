@@ -1,3 +1,5 @@
+# THIS INFORMATION IS OUTDATED
+---
 # Computer hardware specifications
 ## CPU: [Intel Core i5-7500](https://ark.intel.com/content/www/us/en/ark/products/97123/intel-core-i5-7500-processor-6m-cache-up-to-3-80-ghz.html)
 ### Frequency: 3.4GHz
